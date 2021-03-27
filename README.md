@@ -78,4 +78,6 @@ The above mentioned datasets are uploaded to the 'DataFiles' folder of this repo
 
   # END RESULTS.
   
-        From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.8%. So the model is saved to the file        'XGBoostClassifier.pickle.dat'
+        From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.8%. So the model is saved to the file        'XGBoostClassifier.pickle.dat'.
+        
+        This model data is used to analyze, verify the url entered by 'User' is Legit or Phising and respective outcome is produced to the user through GUI app or Web Extension.
