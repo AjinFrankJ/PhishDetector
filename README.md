@@ -72,6 +72,9 @@ The above mentioned datasets are uploaded to the 'DataFiles' folder of this repo
                 TRAIN ACCURACY :  0.868
                 TEST ACCURACY   : 0.857
 
+# Procedure for Usage:- 
+        
+        Open "Procedure.md" and follow all instructions.
 
   # END RESULTS.
   
